@@ -1,0 +1,15 @@
+
+ h1#cabecera
+ {
+ 	text-align: center;
+ }
+body
+{
+	background: -webkit-radial-gradient( #9FE6F7, #617BE0, #A9E0ED );
+    background: -moz-radial-gradient( #9FE6F7, #617BE0, #A9E0ED );
+    background: -o-radial-gradient( #9FE6F7, #617BE0, #A9E0ED );
+    background: radial-gradient( #9FE6F7, #617BE0, #A9E0ED )
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
